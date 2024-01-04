@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+   
+ width: 900px;
+ margin-left: 400px;
+}
+.input{
+    width: 900px;
+    height: 50px;
+ margin-bottom: 50px;
+}
+.submit-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.ti-brand-javascript{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 430px;
+}
+.submit{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: transparent;
+    border-color: white;
+}
+.submit-2{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: transparent;
+    border-color: white;
+}
+.form{
+ background-color: 	transparent;
+    padding: 150px;
+   box-shadow: 1px 1px 5px 1px black;
+}
+body{
+background: linear-gradient(#26aa9b,#ee6a79,#bf00ff);
+
+}
+
